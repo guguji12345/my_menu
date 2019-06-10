@@ -5,5 +5,6 @@ little spider~
 
 ![image](https://github.com/guguji12345/image/blob/master/%E7%83%AD%E5%BA%A6%E5%88%86%E6%9E%90.png)
 
-对问题中出现较多的分词进行统计,观察欲购买手机的客户更关注哪些手机问题,分析情况如下
+对问题中出现较多的分词进行统计,观察欲购买手机的客户更关注哪些手机问题,分析情况如下:
 
+![image](https://github.com/guguji12345/image/blob/master/%E8%AF%8D%E4%BA%91%E5%88%86%E6%9E%90.png)
